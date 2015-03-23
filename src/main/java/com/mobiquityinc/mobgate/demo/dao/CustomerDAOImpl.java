@@ -35,9 +35,10 @@ public class CustomerDAOImpl extends MySqlBaseRepository<Serializable> implement
 	}
 
 	@Override
+	@Transactional
 	public void deleteCustomer(Customer customer) {
 		// TODO Auto-generated method stub
-		getEntityManager().remove(customer);
+		getEntityManager().remove(getEntityManager().merge(customer));
 	}
 
 	@Override

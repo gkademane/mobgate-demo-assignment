@@ -75,7 +75,7 @@ public class CustomerServiceEndpoint {
    
    @DELETE
    @Path(value="/delete/{id}")
-   @Transactional
+   
    public void deleteCustomer(@PathParam("id") Integer id) {
 	   Customer customer = dao.getCustomerById(id);  
 	   dao.deleteCustomer(customer);
