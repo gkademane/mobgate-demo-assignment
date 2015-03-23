@@ -1,0 +1,11 @@
+com/mobiquityinc/mobgate/demo/wrapper/ShowCaseWrapper.class
+com/mobiquityinc/mobgate/demo/dao/CustomerDAO.class
+com/mobiquityinc/mobgate/demo/dao/CustomerDAOImpl.class
+com/mobiquityinc/mobgate/demo/endpoint/CustomerService.class
+com/mobiquityinc/mobgate/demo/endpoint/RolesEndpoint.class
+com/mobiquityinc/mobgate/demo/domain/Customer.class
+com/mobiquityinc/mobgate/demo/domain/RoleWrapper.class
+com/mobiquityinc/mobgate/demo/endpoint/ShowCaseEndPoint.class
+com/mobiquityinc/mobgate/demo/domain/ShowCase.class
+com/mobiquityinc/mobgate/demo/domain/CustomerWrapper.class
+com/mobiquityinc/mobgate/demo/domain/Role.class

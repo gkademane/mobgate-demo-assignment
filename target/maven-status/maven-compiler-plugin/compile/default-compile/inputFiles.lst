@@ -1,0 +1,11 @@
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/domain/ShowCase.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/dao/CustomerDAO.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/domain/Customer.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/endpoint/ShowCaseEndPoint.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/dao/CustomerDAOImpl.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/domain/CustomerWrapper.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/wrapper/ShowCaseWrapper.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/endpoint/CustomerService.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/domain/Role.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/domain/RoleWrapper.java
+/Users/ganeshk/Documents/Demo-mobgate/mobgate-demo-develop/mobgate-demo/src/main/java/com/mobiquityinc/mobgate/demo/endpoint/RolesEndpoint.java
