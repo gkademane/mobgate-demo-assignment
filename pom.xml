@@ -124,5 +124,10 @@
 			<artifactId>mysql</artifactId>
 			<version>1.0.5</version>
 		</dependency>
+		<dependency>
+			<groupId>com.mobiquityinc.apigateway</groupId>
+			<artifactId>mandrill</artifactId>
+			<version>1.0.5</version>
+		</dependency>
 	</dependencies>
 </project>
